@@ -9,4 +9,7 @@ This project is a fully responsive personal portfolio website developed using HT
  - JavaScript-powered interactivity for enhanced user experience
 
    # Interactive Preview of the Personal Website
-[videos.zip](https://github.com/user-attachments/files/21192626/videos.zip)
+
+
+https://github.com/user-attachments/assets/8b83dfca-8af4-4254-874f-57755a9acc08
+
